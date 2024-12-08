@@ -16,17 +16,15 @@ Welcome to my GitHub profile! I’m a passionate **Software Developer** skilled 
 - 🛠️ **DevOps Enthusiast**: Implementing CI/CD pipelines with **Azure DevOps**.  
 - 📚 **Tech Explorer**: Always learning about the latest technologies and trends.  
 
----
-
 ## 🛠️ **Skills & Expertise**  
 
 | **Category**              | **Tech Stack**                                                                                                      |  
 |---------------------------|---------------------------------------------------------------------------------------------------------------------|  
-| 🌐 **Web Development**     | ![ASP.NET Logo](https://img.icons8.com/color/48/000000/asp.png) ![Blazor Logo](https://img.icons8.com/color/48/000000/blazor.png) |  
-| 📱 **Mobile Development**  | ![Flutter Logo](https://img.icons8.com/color/48/000000/flutter.png)                                                |  
-| ⚙️ **Backend Development** | ![C# Logo](https://img.icons8.com/color/48/000000/c-sharp-logo.png) RESTful APIs                                   |  
-| 📊 **Databases**           | ![SQL Server Logo](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)                               |  
-| 🛠️ **DevOps**              | ![Azure DevOps Logo](https://img.icons8.com/color/48/000000/azure-devops.png)                                      |  
+| 🌐 **Web Development**     | ![ASP.NET Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnet/aspnet-original.svg) ![Blazor Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg) |  
+| 📱 **Mobile Development**  | ![Flutter Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg)                                                |  
+| ⚙️ **Backend Development** | ![C# Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg) RESTful APIs                                   |  
+| 📊 **Databases**           | ![SQL Server Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg)                               |  
+| 🛠️ **DevOps**              | ![Azure DevOps Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg)                                      |  
 
 ---
 
