@@ -22,11 +22,11 @@ Welcome to my GitHub profile! I’m a passionate **Software Developer** skilled 
 
 | **Category**              | **Tech Stack**                                                                                                      |  
 |---------------------------|---------------------------------------------------------------------------------------------------------------------|  
-| 🌐 **Web Development**     | ASP.NET Logo Blazor Logo |  
-| 📱 **Mobile Development**  | Flutter Logo                                                |  
-| ⚙️ **Backend Development** | C# Logo RESTful APIs                                   |  
-| 📊 **Databases**           | SQL Server Logo                               |  
-| 🛠️ **DevOps**              | Azure DevOps Logo                                      |  
+| 🌐 **Web Development**     | ![ASP.NET Logo](https://img.icons8.com/color/48/000000/asp.png) ![Blazor Logo](https://img.icons8.com/color/48/000000/blazor.png) |  
+| 📱 **Mobile Development**  | ![Flutter Logo](https://img.icons8.com/color/48/000000/flutter.png)                                                |  
+| ⚙️ **Backend Development** | ![C# Logo](https://img.icons8.com/color/48/000000/c-sharp-logo.png) RESTful APIs                                   |  
+| 📊 **Databases**           | ![SQL Server Logo](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)                               |  
+| 🛠️ **DevOps**              | ![Azure DevOps Logo](https://img.icons8.com/color/48/000000/azure-devops.png)                                      |  
 
 ---
 
