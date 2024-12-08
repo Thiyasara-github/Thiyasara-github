@@ -33,8 +33,8 @@ Welcome to my GitHub profile! I’m a passionate **Software Developer** skilled 
 ## 📊 **GitHub Stats**  
 
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Thiyasara-github&show_icons=true&theme=radical" alt="Thiyasara's GitHub Stats" style="width: 400px; height: auto;" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiyasara-github&layout=compact&theme=radical" alt="Top Languages" style="width: 400px; height: auto;" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=Thiyasara-github&show_icons=true&theme=radical" alt="Thiyasara's GitHub Stats" width="400" height="200" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiyasara-github&layout=compact&theme=radical" alt="Top Languages" width="400" height="200" />  
 </div>  
 
 ---
