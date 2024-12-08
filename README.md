@@ -26,6 +26,29 @@ Welcome to my GitHub profile! I’m a passionate **Software Developer** skilled 
 | 📊 **Databases**           | ![SQL Server Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg)                               |  
 | 🛠️ **DevOps**              | ![Azure DevOps Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg)                                      |  
 
+
+🛠️ Skills & Expertise
+🌐 Web Development
+
+ASP.NET, Blazor
+
+📱 Mobile Development
+
+Flutter
+
+⚙️ Backend Development
+
+C#, RESTful APIs
+
+📊 Databases
+
+Microsoft SQL Server
+
+🛠️ DevOps
+
+Azure DevOps
+
+
 ---
 
 ## 📊 **GitHub Stats**  
