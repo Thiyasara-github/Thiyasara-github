@@ -1,54 +1,21 @@
+# 💫 About Me:
+🌐 Full-Stack Developer: Specializing in ASP.NET & Blazor for web applications.<br>📱 Mobile Developer: Crafting applications with Flutter.<br>⚙️ Backend Developer: Building RESTful APIs using C#.<br>📊 Database Management: Proficient with SQL Server.<br>🛠️ DevOps Enthusiast: Implementing CI/CD pipelines with Azure DevOps.<br>📚 Tech Explorer: Always learning about the latest technologies and trends.
 
 
-# 👋 Hi, I'm **Thevindu**  
-Animated Banner  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Thevindu Vithanage) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Thevindu Vithanage) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Thevindu Vithanage) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Thevindu Vithanage) 
 
-Welcome to my GitHub profile! I’m a passionate **Software Developer** skilled in creating seamless solutions across web, mobile, and backend development. 🚀  
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Thiyasara-github&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Thiyasara-github&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiyasara-github&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-## 🧑‍💻 **About Me**  
-
-- 🌐 **Full-Stack Developer**: Specializing in **ASP.NET** & **Blazor** for web applications.  
-- 📱 **Mobile Developer**: Crafting applications with **Flutter**.  
-- ⚙️ **Backend Developer**: Building RESTful APIs using **C#**.  
-- 📊 **Database Management**: Proficient with **SQL Server**.  
-- 🛠️ **DevOps Enthusiast**: Implementing CI/CD pipelines with **Azure DevOps**.  
-- 📚 **Tech Explorer**: Always learning about the latest technologies and trends.  
-
-## 🛠️ **Skills & Expertise**  
-
-| **Category**              | **Tech Stack**                                                                                                      |  
-|---------------------------|---------------------------------------------------------------------------------------------------------------------|  
-| 🌐 **Web Development**     | ![Blazor Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg) |  
-| 📱 **Mobile Development**  | ![Flutter Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg)                                                |  
-| ⚙️ **Backend Development** | ![C# Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)                                 |  
-| 📊 **Databases**           | ![SQL Server Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg)                               |  
-| 🛠️ **DevOps**              | ![Azure DevOps Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg)                                      |  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Thiyasara-github&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Thiyasara-github&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 **GitHub Stats**  
-
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Thiyasara-github&show_icons=true&theme=radical" alt="Thiyasara's GitHub Stats" width="400" height="200" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiyasara-github&layout=compact&theme=radical" alt="Top Languages" width="400" height="200" />  
-</div>  
-
----
-
-## 📫 **Get in Touch**  
-
-🔗 **Connect with me on:**  
-[Twitter Logo  
-[LinkedIn Logo  
-
-💌 **Email**: [thiyasara@example.com](mailto:thiyasara@example.com)  
-
----
-
-### 🎯 Fun Fact  
-When I'm not coding, you’ll find me exploring new tech gadgets or playing video games! 🎮  
-
-Feel free to explore my repositories, star your favorites, and drop me a message! 😊  
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
