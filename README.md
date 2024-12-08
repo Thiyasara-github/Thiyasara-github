@@ -1,7 +1,7 @@
 Hi there! 👋
 About Me
 
-🙋‍♂️ I'm Vehan Rajintha, a 21-year-old developer
+🙋‍♂️ I'm Vehan Thevindu Vithanage, a 20-year-old developer
 💻 I'm interested in HTML, CSS, JavaScript, C++, Hacking, Web developing and more
 🎓 I'm currently pursuing a Computer Systems and Network Engineering Degree at SLIIT
 🌱 I'm also a member of ACM, GDG & AWS Community
