@@ -20,34 +20,11 @@ Welcome to my GitHub profile! I’m a passionate **Software Developer** skilled 
 
 | **Category**              | **Tech Stack**                                                                                                      |  
 |---------------------------|---------------------------------------------------------------------------------------------------------------------|  
-| 🌐 **Web Development**     | ![ASP.NET Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnet/aspnet-original.svg) ![Blazor Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg) |  
+| 🌐 **Web Development**     | ![ASP.NET Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AMicrosoft_.NET_logo.svg&psig=AOvVaw3KDcn3u1LXq0_jpmMFmvrV&ust=1733728963264000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPi9sOvRl4oDFQAAAAAdAAAAABAE) ![Blazor Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg) |  
 | 📱 **Mobile Development**  | ![Flutter Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg)                                                |  
 | ⚙️ **Backend Development** | ![C# Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg) RESTful APIs                                   |  
 | 📊 **Databases**           | ![SQL Server Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg)                               |  
 | 🛠️ **DevOps**              | ![Azure DevOps Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg)                                      |  
-
-
-🛠️ Skills & Expertise
-🌐 Web Development
-
-ASP.NET, Blazor
-
-📱 Mobile Development
-
-Flutter
-
-⚙️ Backend Development
-
-C#, RESTful APIs
-
-📊 Databases
-
-Microsoft SQL Server
-
-🛠️ DevOps
-
-Azure DevOps
-
 
 ---
 
