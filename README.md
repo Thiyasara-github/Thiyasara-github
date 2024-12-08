@@ -3,6 +3,11 @@ Animated Banner
 
 Welcome to my GitHub profile! I’m a passionate **Software Developer** skilled in creating seamless solutions across web, mobile, and backend development. 🚀  
 
+<div align="center">
+<h1>
+<img src="https://readme-typing-svg.demolab.com/?lines=Hey..+I'm+Thevindu;Welcome+to+my+GitHub+profile!;I'm+a+passionate+Software+Developer;skilled+in+creating+seamless+solutions!" alt="Typing SVG"/>
+</h1>
+</div>
 ---
 
 # 💻 Tech Stack:
