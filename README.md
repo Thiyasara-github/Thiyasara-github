@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I’m a passionate **Software Developer** skilled 
   <h1>
     <img src="https://readme-typing-svg.demolab.com/?lines=Hey%2C+I'm+Thevindu;Welcome+to+my+GitHub+profile%21;I%27m+a+passionate+Software+Developer;skilled+in+creating+seamless+solutions%21" alt="Typing SVG"/>
   </h1>
-  <img src="URL_OF_YOUR_ANIMATED_BANNER.gif" alt="Animated Software Engineering Banner" width="800" />
 </div>
 
 # 💻 Tech Stack:
