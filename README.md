@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a passionate **Software Developer** skilled 
 
 <div align="center">
 <h1>
-<img src="https://readme-typing-svg.demolab.com/?lines=Hey..+I'm+Thevindu;Welcome+to+my+GitHub+profile!;I'm+a+passionate+Software+Developer;skilled+in+creating+seamless+solutions!" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Hey%2C+I'm+Thevindu;Welcome+to+my+GitHub+profile%21;I%27m+a+passionate+Software+Developer;skilled+in+creating+seamless+solutions%21" alt="Typing SVG"/>
 </h1>
 </div>
 ---
