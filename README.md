@@ -3,14 +3,19 @@
 ![Animated Banner](https://i.imgur.com/XYaSIAi.gif)
 
 ## About Me
-My name is Thevindu, and I'm a passionate web developer with a strong interest in HTML, CSS, JavaScript, and related technologies. I'm currently pursuing a Computer Systems and Network Engineering degree at SLIIT.
+My name is Thevindu, and I'm a passionate software developer with expertise in a variety of technologies. I'm skilled in Python, C#, SQL Server, and Azure DevOps, and I'm always eager to learn and grow in my field.
 
-In addition to my academic pursuits, I'm also an active member of the KCD, GDG, and AICSL communities, where I engage in discussions and collaborate on various projects.
+## Skills and Expertise
+- Web Development: ASP.NET, Blazor
+- Mobile Development: Flutter
+- Backend Development: .NET C#, RESTful APIs
+- Databases: SQL Server
+- DevOps: Azure DevOps
 
 ## GitHub Stats
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <div>
-    <h3>Vehan Rajintha's GitHub Stats</h3>
+    <h3>Thevindu's GitHub Stats</h3>
     <ul>
       <li>Total Stars Earned: 369</li>
       <li>Total Commits (2024): 747</li>
@@ -26,11 +31,6 @@ In addition to my academic pursuits, I'm also an active member of the KCD, GDG, 
     </div>
   </div>
 </div>
-
-## Skills and Interests
-- HTML, CSS, JavaScript, C++, Hacking, Web developing and...
-- Currently reading Computer Systems and Network Engineering Degree at SLIIT.
-- I'm also member of KCD, GDG & AICSL.
 
 ## Get in Touch
 Feel free to reach out to me on [Twitter](https://twitter.com/your-twitter-handle) or [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) if you have any questions or just want to connect!
